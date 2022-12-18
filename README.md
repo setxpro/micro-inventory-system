@@ -1,6 +1,6 @@
 
 <h1 align="center">
- Registration System 
+    Product Registration System
 </h1>
 <p>
     Back-end 
